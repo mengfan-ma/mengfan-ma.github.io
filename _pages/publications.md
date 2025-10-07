@@ -29,7 +29,6 @@ In computer science, conference papers undergo a rigorous peer-review process an
 - in *Proc. 20th Conference on Web and Internet Economics **(WINE 2024)***
 
 [Facility Assignment with Fair Cost Sharing: Equilibrium and Mechanism Design](https://arxiv.org/abs/2404.08963)
-
 - in *Proc. 30th International Computing and Combinatorics Conference **(COCOON 2024)***
 - **Mengfan Ma**, Tian Bai, Xin Cheng, Mingyu Xiao
 
