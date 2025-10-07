@@ -42,7 +42,6 @@ In computer science, conference papers undergo a rigorous peer-review process an
 
 - in *Proc. 30th International Computing and Combinatorics Conference **(COCOON 2024)***
 - **Mengfan Ma**, Tian Bai, Xin Cheng, Mingyu Xiao
-<br><br>
 
 [Facility location games with entrance fees](https://ojs.aaai.org/index.php/AAAI/article/view/25719)
 
