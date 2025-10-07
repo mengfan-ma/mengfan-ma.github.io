@@ -16,3 +16,8 @@ Contextual Search in Principal-Agent Games: The Curse of Degeneracy
 
 - with Yiding Feng, Bo Peng and Zongqi Wan
 - in Proc. 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)**
+
+Price of Non-Discrimination in Public Combinatorial Contracts
+
+- with Yiding Feng and Mingyu Xiao
+- in Proc. 20th Conference on Web and Internet Economics (WINE 2024)
