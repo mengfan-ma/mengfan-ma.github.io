@@ -7,14 +7,17 @@ author_profile: true
 ## Preprints & Papers under Review
 
 [Contracting with a Mechanism Designer](https://arxiv.org/abs/2507.12054)
+
 - with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
 
-Facility Location Games Beyond Single-Peakedness: the Entrance Fee Model
+[Facility Location Games Beyond Single-Peakedness: the Entrance Fee Model](https://arxiv.org/abs/2204.11282)
+
 - Mengfan Ma, Mingyu Xiao, Tian Bai, Bakh Khoussainov
 
 ## Conferences & Journals
 
 [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://mengfan-ma.github.io/publications/https:/)
+
 - with Yiding Feng, Bo Peng and Zongqi Wan
 - in *Proc. 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
 
