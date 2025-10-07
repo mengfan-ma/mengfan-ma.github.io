@@ -13,22 +13,17 @@ I received my Ph.D. in Computer Science from the [University of Electronic Scien
 # Conference Proceedings
 
 - Contextual Search in Principal-Agent Games: The Curse of Degeneracy
+
   - with Yiding Feng, Bo Peng and Zongqi Wan
   - in *Proc. 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
-
-
-
 - Price of Non-Discrimination in Public Combinatorial Contracts
+
   - with Yiding Feng and Mingyu Xiao
   - in *Proc. 20th Conference on Web and Internet Economics **(WINE 2024)***
-
-
-
 - Facility Assignment with Fair Cost Sharing: Equilibrium and Mechanism Design
-  - in Proc. 30th International Computing and Combinatorics Conference 
+
+  - in *Proc. 30th International Computing and Combinatorics Conference **(COCOON 2024)***
   - Mengfan Ma, Tian Bai, Xin Cheng, Mingyu Xiao
-
-
 
 # Journal Articles
 
@@ -36,5 +31,3 @@ Towards subversion-resistant password-protected encryption for deduplicated clou
 
 - Shanshan Li, Mengfan Ma, Yunxia Han, Chunxiang Xu
 - Journal of Information Security and Applications (JISA), 2025
-
-
