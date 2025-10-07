@@ -28,4 +28,4 @@ I received my Ph.D. in Computer Science from the [University of Electronic Scien
 
 - Towards subversion-resistant password-protected encryption for deduplicated cloud storage
   - Shanshan Li, Mengfan Ma, Yunxia Han, Chunxiang Xu
-  - Journal of Information Security and Applications *(JISA)*, 2025
+  - *Journal of Information Security and Applications **(JISA)**, 2025*
