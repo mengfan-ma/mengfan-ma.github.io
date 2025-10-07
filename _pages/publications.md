@@ -1,17 +1,16 @@
----
 layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
-In computer science, conference papers undergo a rigorous peer-review process and serve as the main venue for publishing research. (α–β) indicates that authors are listed alphabetically by last name; otherwise, the order reflects their contributions.
+--------------------
 
+In computer science, conference papers undergo a rigorous peer-review process and serve as the main venue for publishing research. (α–β) indicates that authors are listed alphabetically by last name; otherwise, the order reflects their contributions.
 
 ## Preprints & Papers under Review
 
 [Contracting with a Mechanism Designer](https://arxiv.org/abs/2507.12054)
 
-- (α–β) with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
+- **(α–β)** with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
 
 [Facility Location Games Beyond Single-Peakedness: the Entrance Fee Model](https://arxiv.org/abs/2204.11282)
 
@@ -31,7 +30,7 @@ In computer science, conference papers undergo a rigorous peer-review process an
 
 [Price of Non-Discrimination in Public Combinatorial Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983784)
 
-- (α–β) with Yiding Feng and Mingyu Xiao
+- with Yiding Feng and Mingyu Xiao
 - in *Proc. 20th Conference on Web and Internet Economics **(WINE 2024)***
 
 [Facility Assignment with Fair Cost Sharing: Equilibrium and Mechanism Design](https://arxiv.org/abs/2404.08963)
