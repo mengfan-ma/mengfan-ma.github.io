@@ -140,8 +140,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 :  /images/profile-white.jpg
+og_description           :  "Assistant Professor in Economics, Central China Normal University. Research in contract theory, mechanism design, and platform economics."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
