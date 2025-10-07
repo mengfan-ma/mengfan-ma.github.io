@@ -4,14 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# Preprints & Papers under Review
+## Preprints & Papers under Review
 
 [Contracting with a Mechanism Designer](https://arxiv.org/abs/2507.12054)
 
 - with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
 
 
-# Conferences & Journals
+## Conferences & Journals
 
 [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://mengfan-ma.github.io/publications/https:/)
 
