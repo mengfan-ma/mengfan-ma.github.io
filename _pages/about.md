@@ -16,5 +16,5 @@ I received my Ph.D. in Computer Science from the [University of Electronic Scien
 
 Contextual Search in Principal-Agent Games: The Curse of Degeneracy
 
-* withMengfan Ma, Bo Peng and Zongqi Wan
-* in Proc. 37th ACM-SIAM Symposium on Discrete Algorithms** **(SODA 2026)**
+- withMengfan Ma, Bo Peng and Zongqi Wan
+- in Proc. 37th ACM-SIAM Symposium on Discrete Algorithms** **(SODA 2026)**
