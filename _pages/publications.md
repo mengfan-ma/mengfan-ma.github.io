@@ -18,7 +18,7 @@ In computer science, conference papers undergo a rigorous peer-review process an
 
 - [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://mengfan-ma.github.io/publications/https:/)  
 **(α–β)** with Yiding Feng, Bo Peng and Zongqi Wan  
-The 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
+*The 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
 
 - [Towards subversion-resistant password-protected encryption for deduplicated cloud storage](https://www.sciencedirect.com/science/article/abs/pii/S2214212625002704)  
 Shanshan Li, **Mengfan Ma**, Yunxia Han, Chunxiang Xu  
