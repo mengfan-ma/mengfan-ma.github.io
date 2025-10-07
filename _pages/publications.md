@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Note that in computer science, conference papers undergo a rigorous peer-review process and serve as the primary outlet for scientific work. (α–β) indicates that authors are listed alphabetically by their last names.Note that in computer science conference papers go through a rigorous reviewing process, and are the main outlet for scientific work. (α-β) denotes that au­thors are listed al­pha­bet­i­cally by the order of their last name.
+In computer science, conference papers undergo a rigorous peer-review process and serve as the main venue for publishing research. (α–β) indicates that authors are listed alphabetically by last name; otherwise, the order reflects their contributions.
+
 
 ## Preprints & Papers under Review
 
