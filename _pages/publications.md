@@ -10,6 +10,9 @@ author_profile: true
 
 - with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
 
+
+# Publications
+
 [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://mengfan-ma.github.io/publications/https:/)
 
 - with Yiding Feng, Bo Peng and Zongqi Wan
