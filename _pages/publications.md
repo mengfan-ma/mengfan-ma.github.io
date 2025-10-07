@@ -25,7 +25,6 @@ In computer science, conference papers undergo a rigorous peer-review process an
 - *Journal of Information Security and Applications **(JISA)**, 2025*
 
 [Price of Non-Discrimination in Public Combinatorial Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983784)
-
 - with Yiding Feng and Mingyu Xiao
 - in *Proc. 20th Conference on Web and Internet Economics **(WINE 2024)***
 
