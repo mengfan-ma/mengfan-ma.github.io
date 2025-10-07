@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Note that in computer science conference papers go through a rigorous reviewing process, and are the main outlet for scientific work. (α-β) denotes that au­thors are listed al­pha­bet­i­cally - equal con­tri­bu­tion denotes alphabetical author order. 
+Note that in computer science conference papers go through a rigorous reviewing process, and are the main outlet for scientific work. (α-β) denotes that au­thors are listed al­pha­bet­i­cally by the order of their last name. 
 
 ## Preprints & Papers under Review
 
