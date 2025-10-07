@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 I am an Assistant Professor in the [Department of Economics](https://economics.ccnu.edu.cn/) at [Central China Normal University](https://english.ccnu.edu.cn/) (CCNU) since 2025.  
-My research lies at the intersection of theoretical computer science and economics, an area commonly referred to as *algorithmic game theory*.  
-In particular, I am interested in problems related to mechanism design, contract theory, and online learning.
+My research lies at the intersection of theoretical computer science and economics.
+In particular, I am interested in problems related to game theory, mechanism design and contract theory.Recently, I am also interested in online learning theory.
 
 I received my Ph.D. in Computer Science from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2024,  
 where I worked in the [Algorithms and Logic Lab](https://tcsuestc.com/) under the supervision of [Mingyu Xiao](https://sites.google.com/site/myxiao/).  
