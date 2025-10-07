@@ -1,10 +1,17 @@
----
+<!-- ---
 permalink: /
 title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+--- -->
+
+---
+layout: archive
+title: "Mengfan Ma's Homepage"
+permalink: /
+author_profile: true
 ---
 I am an Assistant Professor in the Department of Economics at [Central China Normal University](https://english.ccnu.edu.cn/) (CCNU) since 2025. My research lies at the intersection of theoretical computer science and economics. In particular, I am interested in problems related to **game theory**, **mechanism design**, and **contract theory**. More recently, I have a growing interest in **online learning** problems arising from the field of economics.
 
