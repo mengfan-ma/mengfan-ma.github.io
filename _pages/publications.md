@@ -20,7 +20,7 @@ In computer science, conference papers undergo a rigorous peer-review process an
 **(α–β)** with Yiding Feng, Bo Peng and Zongqi Wan  
 *The 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
 
-- [Towards subversion-resistant password-protected encryption for deduplicated cloud storage](https://www.sciencedirect.com/science/article/abs/pii/S2214212625002704)  
+- [Towards subversion-resistant password-protected encryption for deduplicated cloud storage](https://www.sciencedirect.com/science/article/abs/pii/S2214212625002704#:~:text=By%20integrating%20these%20mechanisms%2C%20we,and%20re%2Drandomizing%20output%20messages.)  
 Shanshan Li, **Mengfan Ma**, Yunxia Han, Chunxiang Xu  
 *Journal of Information Security and Applications **(JISA)***, 2025
 
