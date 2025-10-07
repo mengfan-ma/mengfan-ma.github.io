@@ -32,10 +32,10 @@ in *Proc. 20th Conference on Web and Internet Economics **(WINE 2024)***
 **Mengfan Ma**, Tian Bai, Xin Cheng, Mingyu Xiao  
 in *Proc. 30th International Computing and Combinatorics Conference **(COCOON 2024)***
 
-[Facility location games with entrance fees](https://ojs.aaai.org/index.php/AAAI/article/view/25719)
-- **Mengfan Ma**, Mingyu Xiao, Tian Bai, Bakh Khoussainov
-- in *Proc. 37th AAAI Conference on Artificial Intelligence **(AAAI 2023)***
+[Facility location games with entrance fees](https://ojs.aaai.org/index.php/AAAI/article/view/25719)  
+**Mengfan Ma**, Mingyu Xiao, Tian Bai, Bakh Khoussainov  
+in *Proc. 37th AAAI Conference on Artificial Intelligence **(AAAI 2023)***
 
-[A vertex-separator-based integer linear programming formulation for the partitioned Steiner tree problem](https://www.sciencedirect.com/science/article/abs/pii/S0305054823000151)
-- **Mengfan Ma**, Ziyang Men, André Rossi, Yi Zhou, Mingyu Xiao
-- *Computers & Operations Research **(COR)***, 2023
+[A vertex-separator-based integer linear programming formulation for the partitioned Steiner tree problem](https://www.sciencedirect.com/science/article/abs/pii/S0305054823000151)  
+**Mengfan Ma**, Ziyang Men, André Rossi, Yi Zhou, Mingyu Xiao  
+*Computers & Operations Research **(COR)***, 2023
