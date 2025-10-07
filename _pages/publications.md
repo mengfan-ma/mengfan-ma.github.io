@@ -38,4 +38,4 @@ In computer science, conference papers undergo a rigorous peer-review process an
 
 [A vertex-separator-based integer linear programming formulation for the partitioned Steiner tree problem](https://www.sciencedirect.com/science/article/abs/pii/S0305054823000151)
 - **Mengfan Ma**, Ziyang Men, André Rossi, Yi Zhou, Mingyu Xiao
-- *Computers & Operations Research, **(COR)**, 2023*
+- *Computers & Operations Research **(COR)***, 2023
