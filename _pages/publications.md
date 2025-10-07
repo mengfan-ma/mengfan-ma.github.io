@@ -24,13 +24,13 @@ In computer science, conference papers undergo a rigorous peer-review process an
 - Shanshan Li, **Mengfan Ma**, Yunxia Han, Chunxiang Xu
 - *Journal of Information Security and Applications **(JISA)**, 2025*
 
-[Price of Non-Discrimination in Public Combinatorial Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983784)  
-with Yiding Feng and Mingyu Xiao  
-in *Proc. 20th Conference on Web and Internet Economics **(WINE 2024)***
+[Price of Non-Discrimination in Public Combinatorial Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983784)
+- with Yiding Feng and Mingyu Xiao
+- in *Proc. 20th Conference on Web and Internet Economics **(WINE 2024)***
 
-[Facility Assignment with Fair Cost Sharing: Equilibrium and Mechanism Design](https://arxiv.org/abs/2404.08963)  
-**Mengfan Ma**, Tian Bai, Xin Cheng, Mingyu Xiao  
-in *Proc. 30th International Computing and Combinatorics Conference **(COCOON 2024)***
+[Facility Assignment with Fair Cost Sharing: Equilibrium and Mechanism Design](https://arxiv.org/abs/2404.08963)
+- **Mengfan Ma**, Tian Bai, Xin Cheng, Mingyu Xiao
+- in *Proc. 30th International Computing and Combinatorics Conference **(COCOON 2024)***
 
 [Facility location games with entrance fees](https://ojs.aaai.org/index.php/AAAI/article/view/25719)  
 **Mengfan Ma**, Mingyu Xiao, Tian Bai, Bakh Khoussainov  
