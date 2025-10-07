@@ -48,7 +48,7 @@ In computer science, conference papers undergo a rigorous peer-review process an
 
 - **Mengfan Ma**, Mingyu Xiao, Tian Bai, Bakh Khoussainov
 - in *Proc. 37th AAAI Conference on Artificial Intelligence **(AAAI 2023)***
-<br><br>
+<br>
 
 [A vertex-separator-based integer linear programming formulation for the partitioned Steiner tree problem](https://www.sciencedirect.com/science/article/abs/pii/S0305054823000151)
 
