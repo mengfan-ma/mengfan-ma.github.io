@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Mengfan Ma's Homepage"
+title: "Mengfan Ma | 马梦帆"
 permalink: /
 author_profile: true
 ---
