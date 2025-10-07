@@ -30,7 +30,7 @@ author:
   location         : "China"
   employer         : "Central China Normal University"
   uri              : # URL
-  email            : # "mengfanma1@gmail.com" 
+  # email            : # "mengfanma1@gmail.com" 
 
   # Academic websites
   academia         : # URL
