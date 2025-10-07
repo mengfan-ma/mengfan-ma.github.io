@@ -20,3 +20,5 @@ Facility Assignment with Fair Cost Sharing: Equilibrium and Mechanism Design
   - in *Proc. 30th International Computing and Combinatorics Conference **(COCOON 2024)***
   - Mengfan Ma, Tian Bai, Xin Cheng, Mingyu Xiao
 
+Facility location games with entrance fees
+  - in *Proc. 37th AAAI Conference on Artificial Intelligence **(AAAI 2023)***
