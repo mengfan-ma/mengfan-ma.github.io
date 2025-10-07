@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 --- -->
-
 ---
 layout: archive
 title: "Mengfan Ma's Homepage"
