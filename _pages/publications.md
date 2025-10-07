@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# Preprints & Papers under Review
+Contracting with a Mechanism Designer
+    - with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
+
+
 Contextual Search in Principal-Agent Games: The Curse of Degeneracy
   - with Yiding Feng, Bo Peng and Zongqi Wan
   - in *Proc. 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
