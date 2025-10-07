@@ -9,7 +9,7 @@ In computer science, conference papers undergo a rigorous peer-review process an
 
 ## Preprints & Papers under Review
 
-[Contracting with a Mechanism Designer](https://arxiv.org/abs/2507.12054)
+(α–β) [Contracting with a Mechanism Designer](https://arxiv.org/abs/2507.12054)
 
 - with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
 
