@@ -22,3 +22,4 @@ Facility Assignment with Fair Cost Sharing: Equilibrium and Mechanism Design
 
 Facility location games with entrance fees
   - in *Proc. 37th AAAI Conference on Artificial Intelligence **(AAAI 2023)***
+  - Mengfan Ma, Mingyu Xiao, Tian Bai, Bakh Khoussainov
