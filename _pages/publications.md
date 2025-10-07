@@ -1,8 +1,9 @@
+---
 layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
---------------------
+---
 
 In computer science, conference papers undergo a rigorous peer-review process and serve as the main venue for publishing research. (α–β) indicates that authors are listed alphabetically by last name; otherwise, the order reflects their contributions.
 
