@@ -16,9 +16,13 @@ I received my Ph.D. in Computer Science from the [University of Electronic Scien
   - with Yiding Feng, Bo Peng and Zongqi Wan
   - in *Proc. 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
 
+
+
 - Price of Non-Discrimination in Public Combinatorial Contracts
   - with Yiding Feng and Mingyu Xiao
   - in *Proc. 20th Conference on Web and Internet Economics **(WINE 2024)***
+
+
 
 - Facility Assignment with Fair Cost Sharing: Equilibrium and Mechanism Design
   - in Proc. 30th International Computing and Combinatorics Conference 
