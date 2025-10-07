@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mengfan Ma's Homepage"
+title                    : "Mengfan Ma | Algorithmic Game Theory"
 title_separator          : "-"
 name                     : &name "Mengfan Ma"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page 
+description              : &description "Assistant Professor in Economics at Central China Normal University. Research: game theory, mechanism design, contract theory, online learning."   # Update this with a general description of your site, this is the default if not overridden by a page 
 url                      : https://mengfan-ma.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
