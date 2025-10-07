@@ -33,7 +33,6 @@ In computer science, conference papers undergo a rigorous peer-review process an
 - **Mengfan Ma**, Tian Bai, Xin Cheng, Mingyu Xiao
 
 [Facility location games with entrance fees](https://ojs.aaai.org/index.php/AAAI/article/view/25719)
-
 - **Mengfan Ma**, Mingyu Xiao, Tian Bai, Bakh Khoussainov
 - in *Proc. 37th AAAI Conference on Artificial Intelligence **(AAAI 2023)***
 
