@@ -141,7 +141,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  /images/profile-white.jpg
-og_description           :  "Assistant Professor in Economics, Central China Normal University. Research in contract theory, mechanism design, and platform economics."
+og_description           :  "Mengfan Ma is an assistant professor in Economics, Central China Normal University. Research in contract theory, mechanism design, and platform economics."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
