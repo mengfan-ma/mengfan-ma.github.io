@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mengfan Ma | Algorithmic Game Theory"
+title                    : "Mengfan Ma's Homepage"
 title_separator          : "-"
 name                     : &name "Mengfan Ma"
 description              : &description "Assistant Professor in Economics at Central China Normal University. Research: game theory, mechanism design, contract theory, online learning."   # Update this with a general description of your site, this is the default if not overridden by a page 
