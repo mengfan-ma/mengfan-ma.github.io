@@ -1,22 +1,24 @@
----
 layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
+--------------------
+
 ## Preprints & Papers under Review
 
 [Contracting with a Mechanism Designer](https://arxiv.org/abs/2507.12054)
 
-- with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
+    - with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
 
+Facility Location Games Beyond Single-Peakedness: the Entrance Fee Model
+    - 
 
 ## Conferences & Journals
 
 [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://mengfan-ma.github.io/publications/https:/)
 
-- with Yiding Feng, Bo Peng and Zongqi Wan
-- in *Proc. 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
+    - with Yiding Feng, Bo Peng and Zongqi Wan
+    - in *Proc. 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
 
 [Towards subversion-resistant password-protected encryption for deduplicated cloud storage](https://www.sciencedirect.com/science/article/abs/pii/S2214212625002704)
 
