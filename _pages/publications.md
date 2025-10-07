@@ -7,11 +7,10 @@ author_profile: true
 ## Preprints & Papers under Review
 
 [Contracting with a Mechanism Designer](https://arxiv.org/abs/2507.12054)
-
-    - with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
+- with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
 
 Facility Location Games Beyond Single-Peakedness: the Entrance Fee Model
-    - 
+- Mengfan Ma, Mingyu Xiao, Tian Bai, Bakh Khoussainov
 
 ## Conferences & Journals
 
