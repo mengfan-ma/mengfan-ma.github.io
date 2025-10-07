@@ -25,7 +25,7 @@ Shanshan Li, **Mengfan Ma**, Yunxia Han, Chunxiang Xu
 *Journal of Information Security and Applications **(JISA)***, 2025
 
 - [Price of Non-Discrimination in Public Combinatorial Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983784)  
-with Yiding Feng and Mingyu Xiao  
+**(α–β)** with Yiding Feng and Mingyu Xiao  
 *The 20th Conference on Web and Internet Economics **(WINE 2024)***
 
 - [Facility Assignment with Fair Cost Sharing: Equilibrium and Mechanism Design](https://arxiv.org/abs/2404.08963)  
