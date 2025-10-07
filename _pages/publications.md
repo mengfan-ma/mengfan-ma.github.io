@@ -4,7 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# Publications
+# Preprints & Papers under Review
+
+[Contracting with a Mechanism Designer](https://arxiv.org/abs/2507.12054)
+
+- with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
+
+
+# Conferences & Journals
 
 [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://mengfan-ma.github.io/publications/https:/)
 
@@ -35,9 +42,3 @@ author_profile: true
 
 - Mengfan Ma, Ziyang Men, André Rossi, Yi Zhou, Mingyu Xiao
 - *Computers & Operations Research, **(COR)**, 2023*
-
-# Preprints & Papers under Review
-
-[Contracting with a Mechanism Designer](https://arxiv.org/abs/2507.12054)
-
-- with Tian Bai, Yaohao Liu, Mengfan Ma and Mingyu Xiao
