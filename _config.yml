@@ -23,7 +23,7 @@ repository               : "https://github.com/mengfan-ma/mengfan-ma.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-white.jpg"
+  avatar           : "profile-blue.jpg"
   name             : "Mengfan Ma (马梦帆)"
   pronouns         : # example: "she/her"  
   bio              : "Assisstant Professor in Economics"
