@@ -21,5 +21,13 @@ Facility Assignment with Fair Cost Sharing: Equilibrium and Mechanism Design
   - Mengfan Ma, Tian Bai, Xin Cheng, Mingyu Xiao
 
 Facility location games with entrance fees
-  - in *Proc. 37th AAAI Conference on Artificial Intelligence **(AAAI 2023)***
   - Mengfan Ma, Mingyu Xiao, Tian Bai, Bakh Khoussainov
+  - in *Proc. 37th AAAI Conference on Artificial Intelligence **(AAAI 2023)***
+
+A vertex-separator-based integer linear programming formulation for the partitioned Steiner tree problem
+  - Mengfan Ma, Ziyang Men, André Rossi, Yi Zhou, Mingyu Xiao
+  - *Computers & Operations Research, **(COR)**, 2023*
+
+Heterogenous facility location games with entrance fees
+  - Mengfan Ma, Shanshan Li
+  - in *Proc. 5th International Conference on Artificial Intelligence and Computer Science **(AICS 2023)***
