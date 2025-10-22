@@ -16,7 +16,7 @@ In computer science, conference papers undergo a rigorous peer-review process an
 
 ## Conferences & Journals
 
-- [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://mengfan-ma.github.io/publications/)  
+- [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://arxiv.org/abs/2510.18567)  
 **(α–β)** with Yiding Feng, Bo Peng and Zongqi Wan  
 *The 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
 
