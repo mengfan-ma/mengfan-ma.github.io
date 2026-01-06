@@ -40,6 +40,6 @@ Shanshan Li, **Mengfan Ma**<sup>∗</sup>, Chunxiang Xu, Zhiyang Li	<br>
   **Mengfan Ma**, Mingyu Xiao, Tian Bai, Bakh Khoussainov   <br>
   *The 37th AAAI Conference on Artificial Intelligence **(AAAI 2023)***
 
-- [A vertex-separator-based integer linear programming formulation for the partitioned Steiner tree problem](https://www.sciencedirect.com/science/article/abs/pii/S0305054823000151)
+- [A vertex-separator-based integer linear programming formulation for the partitioned Steiner tree problem](https://www.sciencedirect.com/science/article/abs/pii/S0305054823000151)<br>
   **Mengfan Ma**, Ziyang Men, André Rossi, Yi Zhou, Mingyu Xiao		<br>
   *Computers & Operations Research **(COR)***, 2023
