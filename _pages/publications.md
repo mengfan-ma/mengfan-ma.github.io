@@ -17,11 +17,11 @@ In computer science, conference papers undergo a rigorous peer-review process an
 ## Conferences & Journals
 
 - Password-based Outsourced Data Protection for Cloud Storage Against Backdoor Attacks
- Shanshan Li, Mengfan Ma, Chunxiang Xu, Zhiyang Li  
- *IEEE Transactions on Dependable and Secure Computing **(TDSC)***, 2026
+    Shanshan Li, Mengfan Ma, Chunxiang Xu, Zhiyang Li  
+    *IEEE Transactions on Dependable and Secure Computing **(TDSC)***, 2026
 
 - [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://arxiv.org/abs/2510.18567)
-  **(α–β)** with Yiding Feng, Bo Peng and Zongqi Wan
+  **(α–β)** with Yiding Feng, Bo Peng and Zongqi Wan    
   *The 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
 
 - [Towards subversion-resistant password-protected encryption for deduplicated cloud storage](https://www.sciencedirect.com/science/article/abs/pii/S2214212625002704#:~:text=By%20integrating%20these%20mechanisms%2C%20we,and%20re%2Drandomizing%20output%20messages.)
@@ -39,7 +39,7 @@ In computer science, conference papers undergo a rigorous peer-review process an
 - [Facility location games with entrance fees](https://ojs.aaai.org/index.php/AAAI/article/view/25719)
   **Mengfan Ma**, Mingyu Xiao, Tian Bai, Bakh Khoussainov
   *The 37th AAAI Conference on Artificial Intelligence **(AAAI 2023)***
-  
+
 - [A vertex-separator-based integer linear programming formulation for the partitioned Steiner tree problem](https://www.sciencedirect.com/science/article/abs/pii/S0305054823000151)
   **Mengfan Ma**, Ziyang Men, André Rossi, Yi Zhou, Mingyu Xiao
   *Computers & Operations Research **(COR)***, 2023
