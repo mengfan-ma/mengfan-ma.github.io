@@ -8,35 +8,35 @@ In computer science, conference papers undergo a rigorous peer-review process an
 
 ## Preprints & Papers under Review
 
-- [Contracting with a Mechanism Designer](https://arxiv.org/abs/2507.12054) 
+- [Contracting with a Mechanism Designer](https://arxiv.org/abs/2507.12054) <br>
   **(α–β)** with Tian Bai, Yiding Feng, Yaohao Liu and Mingyu Xiao
 
-- [Facility Location Games Beyond Single-Peakedness: the Entrance Fee Model](https://arxiv.org/abs/2204.11282)  
+- [Facility Location Games Beyond Single-Peakedness: the Entrance Fee Model](https://arxiv.org/abs/2204.11282)  <br>
   **Mengfan Ma**, Mingyu Xiao, Tian Bai, Bakh Khoussainov
 
 ## Conferences & Journals
 
-- [Password-based Outsourced Data Protection for Cloud Storage Against Backdoor Attacks](https://mengfan-ma.github.io/publications/)
+- [Password-based Outsourced Data Protection for Cloud Storage Against Backdoor Attacks](https://mengfan-ma.github.io/publications/)<br>
     Shanshan Li, **Mengfan Ma**, Chunxiang Xu, Zhiyang Li	<br>
     *IEEE Transactions on Dependable and Secure Computing **(TDSC)***, 2026
 
-- [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://arxiv.org/abs/2510.18567)
+- [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://arxiv.org/abs/2510.18567)<br>
   **(α–β)** with Yiding Feng, Bo Peng and Zongqi Wan    <br>
   *The 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
 
-- [Towards subversion-resistant password-protected encryption for deduplicated cloud storage](https://www.sciencedirect.com/science/article/abs/pii/S2214212625002704#:~:text=By%20integrating%20these%20mechanisms%2C%20we,and%20re%2Drandomizing%20output%20messages.)
+- [Towards subversion-resistant password-protected encryption for deduplicated cloud storage](https://www.sciencedirect.com/science/article/abs/pii/S2214212625002704#:~:text=By%20integrating%20these%20mechanisms%2C%20we,and%20re%2Drandomizing%20output%20messages.)<br>
   Shanshan Li, **Mengfan Ma**, Yunxia Han, Chunxiang Xu		<br>
   *Journal of Information Security and Applications **(JISA)***, 2025
 
-- [Price of Non-Discrimination in Public Combinatorial Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983784)
+- [Price of Non-Discrimination in Public Combinatorial Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983784)<br>
   **(α–β)** with Yiding Feng and Mingyu Xiao    <br>
   *The 20th Conference on Web and Internet Economics **(WINE 2024)***
 
-- [Facility Assignment with Fair Cost Sharing: Equilibrium and Mechanism Design](https://arxiv.org/abs/2404.08963)
+- [Facility Assignment with Fair Cost Sharing: Equilibrium and Mechanism Design](https://arxiv.org/abs/2404.08963)<br>
   **Mengfan Ma**, Tian Bai, Xin Cheng, Mingyu Xiao  <br>
   *The 30th International Computing and Combinatorics Conference **(COCOON 2024)***
 
-- [Facility location games with entrance fees](https://ojs.aaai.org/index.php/AAAI/article/view/25719)
+- [Facility location games with entrance fees](https://ojs.aaai.org/index.php/AAAI/article/view/25719) <br>
   **Mengfan Ma**, Mingyu Xiao, Tian Bai, Bakh Khoussainov   <br>
   *The 37th AAAI Conference on Artificial Intelligence **(AAAI 2023)***
 
