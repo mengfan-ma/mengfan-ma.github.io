@@ -16,6 +16,11 @@ In computer science, conference papers undergo a rigorous peer-review process an
 
 ## Conferences & Journals
 
+- Password-based Outsourced Data Protection for Cloud Storage Against Backdoor Attacks
+Shanshan Li, **Mengfan Ma**, Yunxia Han, Chunxiang Xu  
+*Journal of Information Security and Applications **(JISA)***, 2025
+
+
 - [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://arxiv.org/abs/2510.18567)  
 **(α–β)** with Yiding Feng, Bo Peng and Zongqi Wan  
 *The 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
