@@ -25,7 +25,7 @@ Shanshan Li, **Mengfan Ma**<sup>∗</sup>, Chunxiang Xu, Zhiyang Li	<br>
   *The 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
 
 - [Towards subversion-resistant password-protected encryption for deduplicated cloud storage](https://www.sciencedirect.com/science/article/abs/pii/S2214212625002704#:~:text=By%20integrating%20these%20mechanisms%2C%20we,and%20re%2Drandomizing%20output%20messages.)<br>
-  Shanshan Li, **Mengfan Ma**, Yunxia Han, Chunxiang Xu		<br>
+  Shanshan Li, **Mengfan Ma**<sup>∗</sup>, Yunxia Han, Chunxiang Xu		<br>
   *Journal of Information Security and Applications **(JISA)***, 2025
 
 - [Price of Non-Discrimination in Public Combinatorial Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983784)<br>
