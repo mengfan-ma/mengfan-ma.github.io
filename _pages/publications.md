@@ -12,12 +12,12 @@ In computer science, conference papers undergo a rigorous peer-review process an
   **(α–β)** with Tian Bai, Yiding Feng, Yaohao Liu and Mingyu Xiao
 
 - [Facility Location Games Beyond Single-Peakedness: the Entrance Fee Model](https://arxiv.org/abs/2204.11282)  <br>
-  **Mengfan Ma**, Mingyu Xiao, Tian Bai, Bakh Khoussainov
+  **Mengfan Ma**<sup>*</sup>, Mingyu Xiao, Tian Bai, Bakh Khoussainov
 
 ## Conferences & Journals
 
 - [Password-based Outsourced Data Protection for Cloud Storage Against Backdoor Attacks](https://mengfan-ma.github.io/publications/)<br>
-  Shanshan Li, **Mengfan Ma**<sup>*</sup>, Chunxiang Xu, Zhiyang Li	<br>
+  Shanshan Li, Mengfan Ma<sup>*<sup>, Chunxiang Xu, Zhiyang Li	<br>
     *IEEE Transactions on Dependable and Secure Computing **(TDSC)***, 2026
 
 - [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://arxiv.org/abs/2510.18567)<br>
