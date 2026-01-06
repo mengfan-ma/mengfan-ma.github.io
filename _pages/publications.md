@@ -17,7 +17,7 @@ In computer science, conference papers undergo a rigorous peer-review process an
 ## Conferences & Journals
 
 - [Password-based Outsourced Data Protection for Cloud Storage Against Backdoor Attacks](https://mengfan-ma.github.io/publications/)<br>
-  Shanshan Li, Mengfan Ma<sup>*<sup>, Chunxiang Xu, Zhiyang Li	<br>
+  Shanshan Li, **Mengfan Ma**<sup>*</sup>, Chunxiang Xu, Zhiyang Li	<br>
     *IEEE Transactions on Dependable and Secure Computing **(TDSC)***, 2026
 
 - [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://arxiv.org/abs/2510.18567)<br>
