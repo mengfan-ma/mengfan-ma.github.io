@@ -14,11 +14,11 @@ In computer science, conference papers undergo a rigorous peer-review process an
 ## Conferences & Journals
 
 - Searching for Optimal Prices in Two-Sided Markets<br>
-  **(α–β)** with Yiding Feng, **Mengfan Ma**, Bo Peng and Zongqi Wan  <br>
+  **(α–β)** with Yiding Feng, Bo Peng and Zongqi Wan  <br>
   *ACM Conference on Economics and Computation **(ACM EC 2026)***  <br>
 
 - Contracting with a Mechanism Designer<br>
-  **(α–β)** with Tian Bai, Yiding Feng, Yaohao Liu, **Mengfan Ma** and Mingyu Xiao  <br>
+  **(α–β)** with Tian Bai, Yiding Feng, Yaohao Liu and Mingyu Xiao  <br>
   *ACM Conference on Economics and Computation **(ACM EC 2026)***  <br>
 
 - [Contextual Search in Principal-Agent Games: The Curse of Degeneracy](https://arxiv.org/abs/2510.18567)<br>
