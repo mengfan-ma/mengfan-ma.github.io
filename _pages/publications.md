@@ -8,9 +8,6 @@ In computer science, conference papers undergo a rigorous peer-review process an
 
 ## Preprints & Papers under Review
 
-- [Contracting with a Mechanism Designer](https://arxiv.org/abs/2507.12054) <br>
-  **(α–β)** with Tian Bai, Yiding Feng, Yaohao Liu and Mingyu Xiao
-
 - [Facility Location Games Beyond Single-Peakedness: the Entrance Fee Model](https://arxiv.org/abs/2204.11282)  <br>
   **Mengfan Ma**, Mingyu Xiao, Tian Bai, Bakh Khoussainov
 
