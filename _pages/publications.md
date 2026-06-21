@@ -27,6 +27,16 @@ Shanshan Li, **Mengfan Ma**<sup>∗</sup>, Chunxiang Xu, Zhiyang Li	<br>
   **(α–β)** with Yiding Feng, Bo Peng and Zongqi Wan    <br>
   *The 37th ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)***
 
+- Searching for Optimal Prices in Two-Sided Markets<br>
+  **(α–β)** with Yiding Feng, **Mengfan Ma**, Bo Peng and Zongqi Wan  <br>
+  *ACM Conference on Economics and Computation **(ACM EC 2026)***  <br>
+  Fast-tracked to *Operations Research* (UTD 24), first-round review in progress.
+
+- Contracting with a Mechanism Designer<br>
+  **(α–β)** with Tian Bai, Yiding Feng, Yaohao Liu, **Mengfan Ma** and Mingyu Xiao  <br>
+  *ACM Conference on Economics and Computation **(ACM EC 2026)***  <br>
+  Fast-tracked to *Management Science* (UTD 24), first-round review in progress.
+
 - [Towards subversion-resistant password-protected encryption for deduplicated cloud storage](https://www.sciencedirect.com/science/article/abs/pii/S2214212625002704#:~:text=By%20integrating%20these%20mechanisms%2C%20we,and%20re%2Drandomizing%20output%20messages.)<br>
   Shanshan Li, **Mengfan Ma**<sup>∗</sup>, Yunxia Han, Chunxiang Xu		<br>
   *Journal of Information Security and Applications **(JISA)***, 2025
